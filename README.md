@@ -1,4 +1,4 @@
-#PrepPal 📚🤖
+##+PrepPal 📚🤖
 Welcome to PrepPal, an AI-powered study assistant designed to help students study smarter, not harder! This project offers personalized study plans, interactive quizzes, and collaborative learning features to enhance students' academic success.
 
 #Features ✨
